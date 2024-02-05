@@ -7,4 +7,4 @@ The dataset is publically available on the Kaggle website, and it is from an ong
 ### Credits
 Dataset sourced from kaggle
 
-[text](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
+[Heart Disease Prediction](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
